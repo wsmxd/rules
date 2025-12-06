@@ -20,7 +20,7 @@
 
 ## 📄 许可证
 
-本仓库采用 [MIT License](LICENSE)，可自由用于个人或商业项目。
+本仓库采用 [MIT License](LICENSE.txt)，可自由用于个人或商业项目。
 
 ---
 
